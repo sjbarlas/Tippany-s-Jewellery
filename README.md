@@ -1,2 +1,1 @@
-# Tippany-s-Jewellery
-in HTML, CSS
+Web Dev Website
